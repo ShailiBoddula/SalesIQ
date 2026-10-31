@@ -1,0 +1,23 @@
+
+# SalesIQ - Mini AI Business Intelligence Assistant
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# AI Integration
+groq
+python-dotenv
+
+# Data Processing
+pandas
+
+# Frontend
+streamlit
+plotly
+requests
+
+# Testing
+pytest
+httpx
